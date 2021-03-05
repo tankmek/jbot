@@ -2,6 +2,9 @@
 
 ## BETA
 
+Allows you to interact with your 3Commas bots. Currently allows you
+to display and update your global blacklist.
+
 ## Prerequisites
 
 `python 3`  
